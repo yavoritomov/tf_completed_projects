@@ -1,0 +1,8 @@
+- name: Ec2 Linux Instances Facts
+  hosts: all_linux
+  gather_facts: true
+  gather_subset: ['env','!all','!min']
+  tasks:
+    - name: Display only Env vars
+      debug:
+        msg: "{{ ansible_facts }}"

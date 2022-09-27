@@ -8,3 +8,9 @@
 /my_lambda_framework/scripts/script-2/python/
 /my_lambda_framework/scripts/script-2/script-2_layer.zip
 /my_lambda_framework/scripts/script-2/script-2_python.zip
+/tf2ansible/.terraform.lock.hcl
+/tf2ansible/.terraform/
+/tf2ansible/terraform.tfstate
+/tf2ansible/terraform.tfstate.backup
+/tf2ansible/aws_key.pub
+/tf2ansible/aws_key

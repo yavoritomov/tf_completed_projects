@@ -16,3 +16,7 @@
 /tf2ansible/aws_key
 /my_lambda_framework/terraform.tfstate
 /my_lambda_framework/terraform.tfstate.backup
+/eks_aws/.terraform.lock.hcl
+/eks_aws/.terraform.tfstate.lock.info
+/eks_aws/terraform.tfstate
+/eks_aws/terraform.tfstate.backup

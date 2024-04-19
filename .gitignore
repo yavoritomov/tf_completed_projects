@@ -20,3 +20,11 @@
 /eks_aws/.terraform.tfstate.lock.info
 /eks_aws/terraform.tfstate
 /eks_aws/terraform.tfstate.backup
+/mongodb/aws_key
+/mongodb/aws_key.pub
+/mongodb/.terraform.lock.hcl
+/mongodb/.terraform/
+/mongodb/terraform.tfstate
+/mongodb/terraform.tfstate.backup
+/mongodb/ansible/terraform.tfstate
+/mongodb/ansible/inventory_ec2.ini
